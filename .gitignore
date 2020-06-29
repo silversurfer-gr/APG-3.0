@@ -1,6 +1,7 @@
 
 # Godot-specific ignores
 .import/
+.DS_Store
 *.import
 export.cfg
 export_presets.cfg
